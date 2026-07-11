@@ -48,7 +48,7 @@ This project performs an end-to-end analysis of the Data Analyst job market. By 
 
 ## 📂 Dataset Access
 You can access the datasets used in this analysis here:
-[Download Dataset (Google Drive)](PASTE_LINK_KAMU_DISINI)
+[Download Dataset (Google Drive)](https://drive.google.com/drive/folders/1Yu3mvZhhucwu7Ye7pG33_oXiIfdh-HpE?usp=drive_link)
 
 ## 💻 Tech Stack
 - **Database:** SQL Server (T-SQL)
