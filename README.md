@@ -27,17 +27,7 @@ This project performs an end-to-end analysis of the Data Analyst job market. By 
 -R and Java continue to be relevant but are considered complementary skills compared to SQL and Python.
 
 
-### 2. What specific skills are required for these top-paying roles?
-*   **Insight:** Analyzing the intersection of top-paying roles and their required technical stack.
-*   **Visual:** *[Insert your chart here showing Skill Frequency among Top Salaries]*
-*   **Takeaway:** Advanced cloud proficiency (AWS/Snowflake) and automation tools (Python) are the true differentiators for premium-level salaries.
-
-### 3. What are the most in-demand skills?
-*   **Insight:** Determining the foundational tools required to enter the job market.
-*   **Visual:** *[Insert your bar chart here showing Top 10 Most In-Demand Skills]*
-*   **Takeaway:** SQL and Python remain the bedrock of data analysis, appearing in the majority of job postings.
-
-### 4. The Sweet Spot: Which skills offer high salary and high demand?
+### 2. The Sweet Spot: Which skills offer high salary and high demand?
 
 *   🔍 Key Insights
 Spark offers the best balance between high demand and high salary, making it the most valuable skill in the dataset.
@@ -47,6 +37,18 @@ Specialized skills generally command higher salaries but are associated with low
 
 *   **Visual:** *[Insert your scatter plot/matrix here showing Demand vs Salary]*
 *   **Takeaway:** [Name the skill] emerged as the optimal skill to prioritize for career growth.
+
+### 3. Top 10 Company high salary for data analyst role ?
+**Visual:** *[Insert your scatter plot/matrix here showing Demand vs Salary]*
+
+🔍 Key Insights
+Mantys offers the highest average salary at $650K, well above the rest of the companies.
+Meta remains one of the highest-paying global tech companies, offering an average salary of over $330K.
+Most top-paying companies are from the technology and AI sectors, reflecting the premium placed on advanced data skills.
+
+Takeaway: The highest salaries are concentrated in technology-driven companies, where strong analytical, programming, and data engineering skills are highly valued
+
+
 
 ---
 
