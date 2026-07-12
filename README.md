@@ -38,7 +38,13 @@ This project performs an end-to-end analysis of the Data Analyst job market. By 
 *   **Takeaway:** SQL and Python remain the bedrock of data analysis, appearing in the majority of job postings.
 
 ### 4. The Sweet Spot: Which skills offer high salary and high demand?
-*   **Insight:** Identifying the "Sweet Spot"—skills that are highly sought after by employers and provide a high return on investment (ROI) in terms of salary.
+
+*   🔍 Key Insights
+Spark offers the best balance between high demand and high salary, making it the most valuable skill in the dataset.
+Data Engineering tools (Spark, Kafka, Airflow, Redshift) dominate the sweet spot, indicating strong market demand.
+Machine Learning frameworks (TensorFlow & PyTorch) provide competitive salaries despite fewer job openings.
+Specialized skills generally command higher salaries but are associated with lower hiring demand.
+
 *   **Visual:** *[Insert your scatter plot/matrix here showing Demand vs Salary]*
 *   **Takeaway:** [Name the skill] emerged as the optimal skill to prioritize for career growth.
 
