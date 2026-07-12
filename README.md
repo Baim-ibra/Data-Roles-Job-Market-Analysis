@@ -18,8 +18,7 @@ This project performs an end-to-end analysis of the Data Analyst job market. By 
 
 ## 💡 Business Questions & Insights
 ### 1. What is top demands skills in data roles?
-## Top 10 Most In-Demand Skills
-Data Job Analysis/Assets/Top 10 Most In-Demand Skills.png
+*![Top Skills](Data%20Job%20Analysis/Assets/Top%2010%20Most%20In-Demand%20Skills.png)*
 🔍 Key Insights
 - SQL and Python are the two most in-demand skills, each appearing in over 380,000 job postings, making them essential competencies for Data Analysts.
 - Cloud platforms (AWS & Azure) rank among the top skills, reflecting the growing demand for cloud-based data analytics.
@@ -29,18 +28,15 @@ Data Job Analysis/Assets/Top 10 Most In-Demand Skills.png
 
 
 ### 2. The Sweet Spot: Which skills offer high salary and high demand?
-
+*![Salary vs Job Demand](Data%20Job%20Analysis/Assets/Sweet%20Spot-%20Salary%20vs%20Job%20Demand.png)*
 *   🔍 Key Insights
 Spark offers the best balance between high demand and high salary, making it the most valuable skill in the dataset.
 Data Engineering tools (Spark, Kafka, Airflow, Redshift) dominate the sweet spot, indicating strong market demand.
 Machine Learning frameworks (TensorFlow & PyTorch) provide competitive salaries despite fewer job openings.
 Specialized skills generally command higher salaries but are associated with lower hiring demand.
 
-*   **Visual:** *[Insert your scatter plot/matrix here showing Demand vs Salary]*
-*   **Takeaway:** [Name the skill] emerged as the optimal skill to prioritize for career growth.
-
 ### 3. Top 10 Company high salary for data analyst role ?
-**Visual:** *[Insert your scatter plot/matrix here showing Demand vs Salary]*
+*![Highest Paying Companies](Data%20Job%20Analysis/Assets/Top%20Highest%20Paying%20Companies.png)*
 
 🔍 Key Insights
 Mantys offers the highest average salary at $650K, well above the rest of the companies.
