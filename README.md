@@ -18,7 +18,7 @@ This project performs an end-to-end analysis of the Data Analyst job market. By 
 
 ## 💡 Business Questions & Insights
 ### 1. What is top demands skills in data roles?
-
+![Nama Deskripsi Gambar](assets/nama-file-gambar.png)
 🔍 Key Insights
 - SQL and Python are the two most in-demand skills, each appearing in over 380,000 job postings, making them essential competencies for Data Analysts.
 - Cloud platforms (AWS & Azure) rank among the top skills, reflecting the growing demand for cloud-based data analytics.
